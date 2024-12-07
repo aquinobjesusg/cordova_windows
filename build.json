@@ -1,0 +1,12 @@
+{
+    "electron": {
+        "windows": {
+            "package": [
+                "portable"
+            ],
+            "arch": [
+                "x64"
+            ]
+        }
+    }
+}
